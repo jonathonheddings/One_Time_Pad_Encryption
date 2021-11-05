@@ -1,4 +1,4 @@
-# One Time Pad Encryption
+# One Time Pad Message Encryption
 This python program provides functions for One Time Pad encryption on text files and messages.
 
 ---
