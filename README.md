@@ -29,7 +29,6 @@ def otp_encrypt(plaintext, key):
 
     # Returns the cyphertext in binary
     return cyphertext
-
 ```
 
 This function when ran on a message will return an encrypted string of binary. The decryption function works
