@@ -11,7 +11,7 @@ This python program provides functions for One Time Pad encryption on text files
    recovered plaintext if you are doing the operation to the cyphertext already)
 
 #### OTP Encryption Function
-```
+```python
 def otp_encrypt(plaintext, key):
     # Checks whether or not the key is already in binary form for initialization 
     #       of the lists containing the binary bytes
